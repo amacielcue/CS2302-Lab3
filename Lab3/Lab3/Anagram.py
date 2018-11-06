@@ -1,6 +1,6 @@
 #CS2302 Lab3-B
 #By: Alejandra Maciel
-#Last Modified: Nov-56-2018
+#Last Modified: Nov-5-2018
 #Instructor: Diego Aguirre
 #TA: Manoj  Pravaka  Saha
 #The purpose of this lab was to create a program that would read a file with all the valid english words, which would be
